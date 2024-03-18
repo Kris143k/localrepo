@@ -1,1 +1,1 @@
-# this is a local repistory
+# this is a local repository
